@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Labiba Adinda Zahwana</h1>
 <h3 align="center">A passionate AI and Cloud Engineer</h3>
 
-- 🔭 I’m currently working on **doing my thesis 📚 while learning and exploring **AI Agent**, **MLOps**, and **Cloud Computing****
+- 🔭 I’m currently **doing my thesis 📚 while learning and exploring **AI Agent**, **MLOps**, and **Cloud Computing****
 
 - 💬 Ask me about **Machine Learning and Cloud Computing**
 
