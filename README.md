@@ -1,4 +1,15 @@
-<h1 align="center">Hi 👋, I'm Labiba Adinda Zahwana</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+Folks!+👋;I'm+Labiba Adinda Zahwana +;Welcome+to+My+Github!&center=true&size=30">
+  </a>
+</h1>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=labibaadinda.labibaadinda" alt="Visitor Badge" />
+</p>
+
+
+
 <h3 align="center">A passionate AI and Cloud Engineer</h3>
 
 - 🔭 I’m currently **doing my undergraduate thesis 📚 while learning and exploring **AI Agent**, **MLOps**, and **Cloud Computing****
