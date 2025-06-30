@@ -32,7 +32,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=labibaadinda&show_icons=true&locale=en" alt="labibaadinda" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=labibaadinda&" alt="labibaadinda" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=labibaadinda" alt="labibaadinda" />
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/labibaadinda/labibaadinda/output/github-snake-dark.svg" />
