@@ -10,11 +10,11 @@
 
 
 
-<h3 align="center">A passionate AI and Cloud Engineer</h3>
+<h3 align="center">A passionate Cloud Engineer</h3>
 
-- 🔭 I’m currently **doing my undergraduate thesis 📚 while learning and exploring **AI Agent**, **MLOps**, and **Cloud Computing****
+- 🔭 I’m currently **learning and exploring **DevOps**, **MLOps**, and **Cloud Computing****
 
-- 💬 Ask me about **Machine Learning and Cloud Computing**
+- 💬 Ask me about **Cloud Computing**
 
 - 📫 How to reach me **labibaadinda11@gmail.com**
 
